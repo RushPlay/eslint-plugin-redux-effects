@@ -1,0 +1,9 @@
+{
+  "name": "@rushplay/eslint-plugin-redux-effects",
+  "version": "1.0.0",
+  "author": "Leonard Kinday <leonard@kinday.ru>",
+  "main": "index.js",
+  "peerDependencies": {
+    "eslint": "*"
+  }
+}
